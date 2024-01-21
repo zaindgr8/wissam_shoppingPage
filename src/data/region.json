@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/regions/wp.jpg",
+        "title": "Perfume",
+        "properties": "38 properties"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/regions/wb.jpg",
+        "title": "Bakhoor",
+        "properties": "33 properties"
+    },
+    {
+        "id": 3,
+        "img": "assets/img/regions/whm.jpg",
+        "title": "Hair Mist",
+        "properties": "20 properties"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "assets/img/properties/01.jpg",
+      "status": "For Rent",
+      "name":"Belle Mare, Mauritius",
+      "location":"37 Ambleside Gardens, Ilford, IG4",
+      "bedroom":"3",
+      "bathroom":"3",
+      "area":"5x7",
+      "money":"31",
+      "day":"/night"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/properties/02.jpg",
+        "status": "For Sale",
+        "name":"Koh Samui, Thailand",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"15,000",
+        "day":"/night"
+      },
+      {
+        "id": 3,
+        "img": "assets/img/properties/03.jpg",
+        "status": "For Rent",
+        "name":"Balian Beach, Indonesia",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"15,000",
+        "day":"/night"
+      }
+  ]
