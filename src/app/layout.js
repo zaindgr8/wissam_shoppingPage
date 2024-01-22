@@ -1,7 +1,6 @@
 
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import './globals.css'
-
 import { Inter_Tight } from 'next/font/google'
 import { AOSInit } from './aoshook/aoshook';
 import ImportBs from './importBs';

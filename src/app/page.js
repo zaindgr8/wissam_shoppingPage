@@ -15,21 +15,11 @@ export default async function Home() {
         <>
           <div className="hero-header hero-header__one align-items-center background-image d-flex position-relative">
             <img
-              src="assets/img/header/wbg1.jpg"
+              src="assets/img/header/wcvr.jpeg"
               alt=""
               className="h-100 object-fit-cover position-absolute w-100 top-0 left-0"
             />
-            <div className="container position-relative z-2">
-              <div className="row justify-content-center">
-                <div className="col-lg-10 col-xl-8">
-                  <h1 className="hero-header_title fw-bold mb-5 display-2">
-                    New Collection
-                    <br/>
-                    Now Live!
-                  </h1>
-                </div>
-              </div>
-            </div>
+           
           </div>
           {/* Start Top Regions Section */}
           <div className="bg-white py-5 border-bottom">
@@ -40,13 +30,13 @@ export default async function Home() {
               <div className="text-center mt-5" data-aos="fade-up">
                 {/* Start Button */}
                 <button className="btn text-white bg-gray-900  hover:bg-gray-700 btn-lg d-inline-flex hstack gap-2">
-                  <span>Buy Now</span>
+                  <span>Contact Now</span>
                   <span className="vr" />
                   <i className="fa-arrow-right fa-solid fs-14" />
                 </button>
               </div>
             </div>
-          </div>   
+          </div>
         </>
       </main>
     </Layout>

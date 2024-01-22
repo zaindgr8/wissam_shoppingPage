@@ -20,7 +20,7 @@ export default async function SectionHeader() {
             <div className="sub-title fs-16">
               Wissam Serdoun isn't just a brand; it's a global phenomenon.<br/> No
               matter where life takes you, carry the essence of elegance with
-              our perfumes.
+              our perfumes. (CHOSE TO BUY)
             </div>
             {/* /.End Section Header Sub Title */}
           </div>
