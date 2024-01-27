@@ -3,18 +3,21 @@
         "id": 1,
         "img": "assets/img/regions/wp.jpg",
         "title": "Perfume",
-        "properties": "38 properties"
+        "properties": "38 properties",
+        "link":"https://buy.stripe.com/28o3gddTL6Mn0pO14h"
     },
     {
         "id": 2,
         "img": "assets/img/regions/wb.jpg",
         "title": "Bakhoor",
-        "properties": "33 properties"
+        "properties": "33 properties",
+        "link":"https://buy.stripe.com/eVag2Z9DveePegE3cq"
     },
     {
         "id": 3,
         "img": "assets/img/regions/whm.jpg",
         "title": "Hair Mist",
-        "properties": "20 properties"
+        "properties": "20 properties",
+        "link":"https://buy.stripe.com/14k0414jbdaLc8wfZe"
     }
 ]

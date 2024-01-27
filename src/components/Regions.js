@@ -14,7 +14,7 @@ export default async function Regions() {
             >
               {/* Start Category Item */}
               <Link
-                href="#"
+                href={region.link}
                 className="d-block category-item position-relative"
                 data-aos="fade"
                 data-aos-delay={aosDelay}
